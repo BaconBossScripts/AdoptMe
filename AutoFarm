@@ -1,0 +1,2 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BaconBossScripts/AdoptMe/refs/heads/main/Farm'))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/PabloOP-87/Keyless/refs/heads/main/Adopt-Me-Winter-Event'),true))()
